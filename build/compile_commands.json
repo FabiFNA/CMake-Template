@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/fabi/Programmieren/Privat/CMake-Template/build",
+  "command": "/usr/bin/clang++ -I/Users/fabi/Programmieren/Privat/CMake-Template/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/MyTemplateProject.dir/src/Bank.cpp.o -c /Users/fabi/Programmieren/Privat/CMake-Template/src/Bank.cpp",
+  "file": "/Users/fabi/Programmieren/Privat/CMake-Template/src/Bank.cpp",
+  "output": "/Users/fabi/Programmieren/Privat/CMake-Template/build/CMakeFiles/MyTemplateProject.dir/src/Bank.cpp.o"
+},
+{
+  "directory": "/Users/fabi/Programmieren/Privat/CMake-Template/build",
+  "command": "/usr/bin/clang++ -I/Users/fabi/Programmieren/Privat/CMake-Template/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/MyTemplateProject.dir/src/Kunde.cpp.o -c /Users/fabi/Programmieren/Privat/CMake-Template/src/Kunde.cpp",
+  "file": "/Users/fabi/Programmieren/Privat/CMake-Template/src/Kunde.cpp",
+  "output": "/Users/fabi/Programmieren/Privat/CMake-Template/build/CMakeFiles/MyTemplateProject.dir/src/Kunde.cpp.o"
+},
+{
+  "directory": "/Users/fabi/Programmieren/Privat/CMake-Template/build",
+  "command": "/usr/bin/clang++ -I/Users/fabi/Programmieren/Privat/CMake-Template/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/MyTemplateProject.dir/src/main.cpp.o -c /Users/fabi/Programmieren/Privat/CMake-Template/src/main.cpp",
+  "file": "/Users/fabi/Programmieren/Privat/CMake-Template/src/main.cpp",
+  "output": "/Users/fabi/Programmieren/Privat/CMake-Template/build/CMakeFiles/MyTemplateProject.dir/src/main.cpp.o"
+}
+]
