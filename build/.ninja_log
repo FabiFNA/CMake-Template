@@ -1,13 +1,7 @@
 # ninja log v7
-0	284	1764281719324696009	CMakeFiles/MyTemplateProject.dir/src/main.cpp.o	c9922488e5441847
-333	452	1764282829287650296	MyTemplateProject	3eba3bbe1aace5fd
+3	575	1764633648467719373	CMakeFiles/MyTemplateProject.dir/src/main.cpp.o	c9922488e5441847
+575	706	1764633649039519447	MyTemplateProject	3eba3bbe1aace5fd
 3	275	1764282828958371767	CMakeFiles/MyTemplateProject.dir/src/Kunde.cpp.o	befe34eebd9bb14d
-3	332	1764282828958066061	CMakeFiles/MyTemplateProject.dir/src/Bank.cpp.o	46d08b4b9bf8c2fc
-3	396	1764283345773525161	CMakeFiles/MyTemplateProject.dir/src/Bank.cpp.o	46d08b4b9bf8c2fc
-396	498	1764283346165838542	MyTemplateProject	3eba3bbe1aace5fd
-3	281	1764283362441934379	CMakeFiles/MyTemplateProject.dir/src/Bank.cpp.o	46d08b4b9bf8c2fc
-281	318	1764283362719671186	MyTemplateProject	3eba3bbe1aace5fd
 3	278	1764283376185707257	CMakeFiles/MyTemplateProject.dir/src/Bank.cpp.o	46d08b4b9bf8c2fc
-278	321	1764283376461046504	MyTemplateProject	3eba3bbe1aace5fd
-4	278	1764283504407094955	CMakeFiles/MyTemplateProject.dir/src/main.cpp.o	c9922488e5441847
-278	317	1764283504680953133	MyTemplateProject	3eba3bbe1aace5fd
+3	399	1765594818347948448	CMakeFiles/MyTemplateProject.dir/src/main.cpp.o	c9922488e5441847
+399	519	1765594818743425042	MyTemplateProject	3eba3bbe1aace5fd
