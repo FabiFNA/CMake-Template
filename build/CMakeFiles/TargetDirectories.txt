@@ -1,3 +1,0 @@
-/Users/fabi/Programmieren/Privat/CMake-Template/build/CMakeFiles/MyTemplateProject.dir
-/Users/fabi/Programmieren/Privat/CMake-Template/build/CMakeFiles/edit_cache.dir
-/Users/fabi/Programmieren/Privat/CMake-Template/build/CMakeFiles/rebuild_cache.dir
