@@ -10,3 +10,5 @@ build/
 # Compiler
 *.o
 *.out
+.cache/
+.cache
